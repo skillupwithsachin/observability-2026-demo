@@ -1,13 +1,4 @@
-Your Machine
-│
-├── Python App
-│     └── :8080
-│
-├── Prometheus Container
-│     └── :9090
-│
-└── Grafana Container
-      └── :3000
+
 
 Commands Used:
 
